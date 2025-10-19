@@ -154,7 +154,7 @@
 35. __Merchants' League investigations__
 
     Completely revised Merchants' League quest with a lot of restored content.\
-    A messenger will approach you and lead the group to a first meeting with Aldeth to discuss his suspicions about the doppelganger takeover.\
+    A messenger will approach you in Baldur's Gate city and lead the group to a first meeting with Aldeth. He will share his suspicions about the doppelganger takeover.\
     Expanded dialogue and plot in the Merchants' League including more options to gain evidence that leads to exposure of the plot.
 
 36. __Aldeth & Seniyad__
@@ -256,6 +256,9 @@
         <p>Adds a working rear entrance/exit.</p>
     </li>
 </ol>
+
+\
+[Back to README](/JA%23BGT_AdvPack/readme/README.md)
 
 
 [^1]: Already restored in BG:EE
