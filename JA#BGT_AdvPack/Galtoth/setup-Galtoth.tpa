@@ -8,6 +8,7 @@ COPY ~JA#BGT_AdvPack/Galtoth/JA#GALTO.CRE~ ~override~
 	SAY NAME2 @2060
 
 COPY ~JA#BGT_AdvPack/Galtoth/JA#GALTO.STO~ ~override~
+	SAY STORE_NAME @2060
 
 
 COMPILE EVALUATE_BUFFER ~JA#BGT_AdvPack/Galtoth/ja#galto.d~
