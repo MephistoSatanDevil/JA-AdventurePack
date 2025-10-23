@@ -14,7 +14,7 @@ When we charmed Deagan, we learned that there have been many troubles at the Mer
 /* #1263 */
 @4  = ~You needn't be rude.~
 /* #1264 */
-@5  = ~I have heard around town that a free lance group of mercenaries arrived recently. Would you be those people?~
+@5  = ~I have heard around town that there is a freelance group of mercenaries who have recently arrived. Would you be those people?~
 /* #1271 */
 @6  = ~Got the wrong people, now we have to be on our way.~
 /* #1272 */
@@ -24,7 +24,7 @@ When we charmed Deagan, we learned that there have been many troubles at the Mer
 /* #1273 */
 @9  = ~I say nay.~
 /* #1274 */
-@10 = ~Free gold, why not?~
+@10 = ~Free money, why not?~
 /* #1266 */
 @11 = ~If you would be kind enough to follow me, I can show you to him right away. He wishes to meet with you at the Three Old Kegs.~
 /* #6579 */
@@ -32,7 +32,7 @@ When we charmed Deagan, we learned that there have been many troubles at the Mer
 
 We have agreed to follow a man named Deagan to see his master in the Three Old Kegs inn.~
 /* #1267 */
-@13 = ~I thought you agreed to come. You haven't changed your mind, have you?~
+@13 = ~I thought you had agreed to come. You haven't changed your minds, have you?~
 /* #1275 */
 @14 = ~Hold your horses, we're coming!~
 /* #1276 */
