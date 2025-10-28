@@ -174,6 +174,7 @@ Note the following to see as much mod content as possible:
 - Rename component "Arkhstaff" into "Krammoch Arkhstaff"
 - Fix creature spawn at third floor of Ramazith's Tower
 - Fix Galtoth's store name
+- Wilyn arrives later in Elfsong Tavern
 
 #### v1.0: 06.04.2025 (by Ychap)
 
