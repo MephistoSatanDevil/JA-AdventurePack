@@ -40,14 +40,14 @@
 @40 = ~I don't know. But he is, so far, my only clue. Can you tell me where I can find him?~
 @41 = ~Phew! Let me think, I think he now lives somewhere near the harbor, but I'm not quite sure. I'm sorry.~
 @42 = ~It's okay. I'll find him. Farewell.~
-@43 = ~Farewell and thank you for helping us to get our Lady back.~
+@43 = ~Farewell and thank you for helping us to get our lady back.~
 @44 = ~Is that one of my guests? Is he a suspect?~
 @45 = ~I think so.~
 @46 = ~Basically no, I only want to talk to him. Maybe he knows something.~
 @47 = ~Hmm, then you're tracking something, right?! How nice. Unfortunately, I don't know the man. Ask around in the taproom. If there is anyone anywhere who can help you, then they will be in there.~
 @48 = ~I will do so, thank you.~
 @49 = ~Hmm, no. Unfortunately, I don't know him. But I'm glad to hear you pursue the matter so seriously. Ask around in the taproom. If there is anyone anywhere who can help you, then they will be in there.~
-@50 = ~Ah, you're already back? Did you find out more about the disappearance of our Lady?~
+@50 = ~Ah, you're already back? Did you find out more about the disappearance of our lady?~
 @51 = ~Yes, we have seen the lady. She has recovered her voice.~
 @52 = ~A mage called Vaalahor tried to bind her voice to a harp with his magic. That's why the lady was silent.~
 @53 = ~Really? Did you see her? No one ever did, as far as I know. But has she recovered her voice? What happened?~
@@ -56,7 +56,7 @@
 @56 = ~No, the lady appeared to us and took the harp herself. She did speak to us, so everyone should be able to listen to her song again.~
 @57 = ~Great! That is some good news at last! The bar room will be full again once the ghostly song resumes filling the night again.~
 @58 = ~For your efforts, of course, you deserve a reward. Take this gold now and come back to me in a few days, maybe I will have something else for you then. May Tymora continue to be well disposed to you!~
-@59 = ~Ah, good you came back.  As promised, I have something special for you because of your outstanding efforts for our Lady. Not only a reminder, but I also think it will continue to reward you...~
+@59 = ~Ah, good you came back.  As promised, I have something special for you because of your outstanding efforts for our lady. Not only a reminder, but I also think it will continue to reward you...~
 @60 = ~My barmaid Bekki found this harp behind some crates when she was busy in the store room. I suppose it is the one that you got from this Vaalahor? I immediately brought it to a friend who could, let's say, polish it a bit.~
 @61 = ~Now I want to give it to you as a present, so that it will always remind you of this tavern and our elven lady.~
 @62 = ~Thank you, Alyth. This is really a nice gift!~
@@ -69,4 +69,4 @@
 @69 = ~Thank you. Let me see what you have to offer.~
 @70 = ~The mystery of the silent ghostly voice
 
-I have solved the mysterious disappearance of the singing ghost at the Elfsong tavern and returned her voice to the "Lady". Alyth was extremely grateful to me, as the singing is the main reason for many guests to visit her inn. If I return in a few days, she will have a special gift for me.~
+I have solved the mysterious disappearance of the singing ghost at the Elfsong tavern and returned her voice to the "lady". Alyth was extremely grateful to me, as the singing is the main reason for many guests to visit her inn. If I return in a few days, she will have a special gift for me.~
